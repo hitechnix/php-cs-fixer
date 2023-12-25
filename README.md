@@ -1,0 +1,2 @@
+# PHP CS Fixer Config
+
